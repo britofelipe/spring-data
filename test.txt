@@ -1,2 +1,6 @@
 testing
+<<<<<<< HEAD
 testing branch staging
+=======
+add staging branch
+>>>>>>> staging
